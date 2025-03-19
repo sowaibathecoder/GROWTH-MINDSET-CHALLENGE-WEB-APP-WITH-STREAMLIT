@@ -24,4 +24,4 @@ Growth Mindset Challenge is an interactive **Streamlit-based web app** that help
 
 ## 🌍 Live Demo  
 
-🚀 **Try it out:** [Your Streamlit App Link Here]  
+🚀 **Try it out:** [https://growth-mindset-challenge-app-created-by-sowaiba-naz.streamlit.app/]  
